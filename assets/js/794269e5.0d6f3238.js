@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite_face_recognition=self.webpackChunksite_face_recognition||[]).push([[862],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
